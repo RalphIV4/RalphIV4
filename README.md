@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ralph! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="www.linkedin.com/in/ralph-baisden-iv/">
+<h1>Hi, I'm Ralph! 
 
 <h2>👨‍💻 Data Analytics & Visualization Projects:</h2>
 
