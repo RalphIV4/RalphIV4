@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Data Analytics & Visualization Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Analyzing United States Historical Crime</b>
+  - [US Crime](https://github.com/RalphIV4/USCrimeAnalysis)
 
 
 <!--
