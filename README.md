@@ -2,8 +2,7 @@
 
 <h2>👨‍💻 Data Analytics & Visualization Projects:</h2>
 
-- <b>Analyzing United States Historical Crime</b>
-  - [US Crime](https://github.com/RalphIV4/USCrimeAnalysis)
+- <b>[United States Historical Crime Analysis](https://github.com/RalphIV4/USCrimeAnalysis)</b>
 
 
 <!--
